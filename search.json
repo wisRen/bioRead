@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html",
-    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html",
-    "title": "3  T细胞耗竭中的代谢和表观遗传调控变化",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "生物医学文献进展",
     "section": "",
-    "text": "目前的免疫疗法通过增强宿主免疫在癌细胞消除和病毒清除方面的能力，产生了显著的临床效果。然而，在长时间接触抗原后，CD8+ T 细胞会分化成一种特殊的分化状态，称为 T 细胞耗竭，这是慢性病毒感染和肿瘤发展过程中抗病毒和抗肿瘤免疫的主要障碍之一。越来越多的证据表明，耗竭的 T 细胞会出现代谢不足，信号级联和表观遗传发生改变，这会抑制效应免疫并导致对免疫检查点阻断疗法的反应不佳。代谢压力如何影响 T 细胞耗竭仍不清楚；因此，在这篇综述中，我们总结了当前关于 T 细胞耗竭如何发生的知识，并讨论了代谢不足和长期应激反应如何影响信号级联和表观遗传重编程，从而通过专门的分化编程将 T 细胞锁定在耗竭状态。\n\n\n\nT细胞耗竭的表观遗传重编程特征"
+    "text": "文献阅读、翻译、总结，以便系统从科研文献中提取新思路、新知识、提升科学能力。"
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "4  总结",
-    "section": "",
-    "text": "5"
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#环境因素调节t细胞分化和耗竭",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#环境因素调节t细胞分化和耗竭",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.1 环境因素调节T细胞分化和耗竭",
+    "text": "2.1 环境因素调节T细胞分化和耗竭"
+  },
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#section",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#section",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.2 ",
+    "text": "2.2 \n\n\n\n环境因素影响T细胞分化和耗竭\n\n\n\n2.2.1 肿瘤微环境免疫调节细胞促进T细胞耗竭\n\n\n2.2.2 营养缺氧影响T细胞功能\n\n\n2.2.3 有害代谢物影响T细胞增殖"
+  },
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#t细胞耗竭中的表观重编程",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#t细胞耗竭中的表观重编程",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.3 T细胞耗竭中的表观重编程",
+    "text": "2.3 T细胞耗竭中的表观重编程\n\n\n\nT细胞耗竭中的代谢改变影响表观重编程"
+  },
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#线粒体活性内质网压力与t细胞耗竭",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#线粒体活性内质网压力与t细胞耗竭",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.4 线粒体活性、内质网压力与T细胞耗竭",
+    "text": "2.4 线粒体活性、内质网压力与T细胞耗竭\n\n\n\n线粒体和内质网相关信号传导在T细胞耗竭中的作用"
+  },
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#未来展望和目前未解决的问题",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#未来展望和目前未解决的问题",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.5 未来展望和目前未解决的问题",
+    "text": "2.5 未来展望和目前未解决的问题\n\n在协调T细胞分化程序时，线粒体如何与ER和细胞核进行信号交流？\n线粒体活性和ER应激反应是否会影响表观基因组，从而加强T细胞耗竭？\n我们能否通过代谢干预重编程T细胞耗竭中的表观基因组？\n转录因子是否可以控制祖细胞耗竭和终末耗竭状态，从而用于干预T细胞代谢程序？"
+  },
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#参考文献",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#参考文献",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.6 参考文献",
+    "text": "2.6 参考文献\n\nFranco, F. et al. (2020) 'Metabolic and epigenetic regulation of T-cell exhaustion', Nature Metabolism, 2(10), pp. 1001–1012. Available at: https://doi.org/10.1038/s42255-020-00280-9."
   }
 ]
