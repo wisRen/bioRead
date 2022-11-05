@@ -11,7 +11,7 @@
     "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#摘要",
     "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
     "section": "2.1 摘要",
-    "text": "2.1 摘要\n目前的免疫疗法通过增强宿主免疫在癌细胞消除和病毒清除方面的能力，产生了显著的临床效果。然而，在长时间接触抗原后，CD8+ T 细胞会分化成一种特殊的分化状态，称为 T 细胞耗竭，这是慢性病毒感染和肿瘤发展过程中抗病毒和抗肿瘤免疫的主要障碍之一。越来越多的证据表明，耗竭的 T 细胞会出现代谢不足，信号级联和表观遗传发生改变，这会抑制效应免疫并导致对免疫检查点阻断疗法的反应不佳。代谢压力如何影响 T 细胞耗竭仍不清楚；因此，在这篇综述中，我们总结了当前关于 T 细胞耗竭如何发生的知识，并讨论了代谢不足和长期应激反应如何影响信号级联和表观遗传重编程，从而通过专门的分化编程将 T 细胞锁定在耗竭状态 。"
+    "text": "2.1 摘要\n目前的免疫疗法通过增强宿主免疫在癌细胞消除和病毒清除方面的能力，产生了显著的临床效果。然而，在长时间接触抗原后，CD8+ T 细胞会分化成一种特殊的分化状态，称为 T 细胞耗竭，这是慢性病毒感染和肿瘤发展过程中抗病毒和抗肿瘤免疫的主要障碍之一。越来越多的证据表明，耗竭的 T 细胞会出现代谢不足，信号级联和表观遗传发生改变，这会抑制效应免疫并导致对免疫检查点阻断疗法的反应不佳。代谢压力如何影响 T 细胞耗竭仍不清楚；因此，在这篇综述中，我们总结了当前关于 T 细胞耗竭如何发生的知识，并讨论了代谢不足和长期应激反应如何影响信号级联和表观遗传重编程，从而通过专门的分化编程将 T 细胞锁定在耗竭状态(Franco 等 2020) 。"
   },
   {
     "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#前言",
@@ -32,14 +32,14 @@
     "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#环境因素调节t细胞分化和耗竭",
     "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
     "section": "2.4 环境因素调节T细胞分化和耗竭",
-    "text": "2.4 环境因素调节T细胞分化和耗竭"
+    "text": "2.4 环境因素调节T细胞分化和耗竭\n\n2.4.1 免疫调节细胞的作用\n除了慢性TCR刺激外，肿瘤微环境（TME）中的免疫抑制特征（包括细胞因子环境、营养剥夺和暴露于免疫抑制分子）会影响T细胞分化并导致T细胞耗竭。调节性T细胞通常异常地积聚在TME中并表达免疫抑制分子，包括抑制抗肿瘤T细胞反应的细胞因子IL-10，IL-35和TGFβ。肿瘤浸润淋巴细胞 （TIL） 中 T 细胞与 CD8+ T 细胞的比例升高通常与许多癌症类型抗 PD-1 治疗后的预后不良和令人失望的治疗结果有关。最近的在B16黑色素瘤肿瘤模型中研究表明，肿瘤内T细胞通过IL-10和IL-35的合作促进CD8+ TIL中的T细胞耗竭。"
   },
   {
     "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#section",
     "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#section",
     "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
     "section": "2.5 ",
-    "text": "2.5 \n\n\n\n环境因素影响T细胞分化和耗竭\n\n\n\n2.5.1 肿瘤微环境免疫调节细胞促进T细胞耗竭\n\n\n2.5.2 营养缺氧影响T细胞功能\n\n\n2.5.3 有害代谢物影响T细胞增殖"
+    "text": "2.5 \n\n\n\n环境因素影响T细胞分化和耗竭\n\n\n\n2.5.1 营养剥夺对免疫功能的调节\nTME中的葡萄糖剥夺主要是由于癌细胞中葡萄糖消耗增加引起的，而这种剥夺已被发现可以抑制小鼠黑色素瘤和肉瘤模型中TIL的杀瘤活性。此外，由于精氨酸酶和吲哚胺-吡咯 2，3-双加氧酶 （IDO） 在 树突状细胞（DC）、髓源性抑制细胞（MDSC） 和肿瘤相关巨噬细胞 （TAM）中的强劲表达，氨基酸（如精氨酸和色氨酸）的剥夺可能会进一步损害代谢适应性并改变 TIL 中的激活和分化程序。从机制上讲，IDO活性可能由激酶GCN2的激活和mTOR活性的损害引起，该活性会从TME中消耗色氨酸并因此损害T细胞功能。此外，由色氨酸降解产生的犬尿氨酸（kynurenine）通过激活芳烃受体对 T 细胞免疫具有免疫抑制作用。此外，精氨酸消耗导致T细胞增殖，细胞因子产生和TCR表达的下降。T细胞活化也被证明需要大量蛋氨酸（methionine），蛋氨酸在细胞甲基化过程中作为甲基的供体，从而实现T细胞分化所需的表观遗传重编程。此外，最近的一项研究表明，从头丝氨酸生物合成对T细胞扩增以应对细菌感染的重要性。尽管葡萄糖、色氨酸、精氨酸、蛋氨酸和丝氨酸在 T 细胞活化和效应功能中已被证明很重要，但它们在 T 细胞耗竭中的作用仍未确定。\n有趣的是，PD-1信号已被证明可以阻断有氧糖酵解，并在慢性LCMV感染期间诱导病毒抗原特异性CD8+ T细胞的代谢损伤表型。此外，来自乙型肝炎病毒（HBV），丙型肝炎病毒或HIV感染患者的病毒抗原特异性CD8+ T细胞耗竭显示出代谢适应性下降。\n缺氧是另一个关键因素，慢性感染的情况下，在肿瘤中T细胞功能会因缺氧而受到抑制。缺氧可以增加共抑制受体的表达并抑制 T 细胞效应器功能。实验表明，通过调节肿瘤细胞中的氧化代谢来减少肿瘤模型（如黑色素瘤和结肠癌）中的缺氧，可以改善 T 细胞功能。相比之下，肿瘤耗氧量增加与T细胞耗竭和免疫反应减弱有关。因此，未来的研究需要阐明缺氧反应在CD8+ T细胞的耗竭和分化程序中的作用。\n\n\n2.5.2 有害代谢物影响T细胞增殖\n癌细胞中的高需氧糖酵解伴随着乳酸分泌的增强，从而导致富含乳酸的TME。而细胞外的高乳酸水平已被证明可以通过未知机制阻碍T细胞增殖和功能。鉴于乳酸可通过乳酸脱氢酶B生成丙酮酸和NADH，由乳酸转化为丙酮酸引起的丙酮酸生成不平衡和NADH/NAD比率升高可能通过阻碍有氧糖酵解破坏T细胞的增殖和效应功能。\n此外，TME是一种富含脂质的微环境，这是由于癌细胞中的从头脂肪酸合成活性以及脂肪细胞和脂肪细胞样成纤维细胞在肿瘤中的积累。据报道，这些肿瘤相关脂质可调节各种细胞类型（包括 TAM、MDSC 和 DC）的免疫抑制特征。此外，最近的一项研究报告称，来自非小细胞肺癌患者的PD-1<sup>hi</sup> CD8+ TILs比PD-1 lo CD8 + TILs79含有更高的脂质含量，因此表明脂质代谢可能有助于T细胞衰竭。为了支持这种可能性，T细胞耗竭已被证明是由B16黑色素瘤模型中ER应激反应的激活CD8 + TIL中胆固醇摄取的异常增加驱动的。"
   },
   {
     "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#t细胞耗竭中的表观重编程",
@@ -63,10 +63,24 @@
     "text": "2.8 未来展望和目前未解决的问题\n\n在协调T细胞分化程序时，线粒体如何与ER和细胞核进行信号交流？\n线粒体活性和ER应激反应是否会影响表观基因组，从而加强T细胞耗竭？\n我们能否通过代谢干预重编程T细胞耗竭中的表观基因组？\n转录因子是否可以控制祖细胞耗竭和终末耗竭状态，从而用于干预T细胞代谢程序？"
   },
   {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献标注",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献标注",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "2.9 文献标注",
+    "text": "2.9 文献标注\n\nChang, C. H.(Chang 等 2013)和Ho, P. C.(Ho 等 2015)表明葡萄糖剥夺抑制T细胞抗肿瘤免疫，可以通过代谢重编程增强。\nAlfei, F.(Alfei 和 Zehn 2017)表明 TOX 是慢性病毒感染期间维持T细胞耗竭的关键转录因子。\nGhoneim, H. E.(Ghoneim 等 2017)揭示了终末耗竭的T细胞显示出独特的表观遗传特征，这抑制了T细胞效应功能和PD-1阻断治疗的有效性。\nScharping, N. E.(Scharping 等 2016)提供了功能失调的线粒体与抗肿瘤免疫力下降之间联系的证据。\nMa, X.(Ma 等 2019)表明肿瘤微环境中的胆固醇通过内质网应激的XBP1通路驱动T细胞耗竭。"
+  },
+  {
     "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#参考文献",
     "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#参考文献",
     "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
-    "section": "2.9 参考文献",
-    "text": "2.9 参考文献\n\nFranco, F. et al. (2020) 'Metabolic and epigenetic regulation of T-cell exhaustion', Nature Metabolism, 2(10), pp. 1001–1012. Available at: https://doi.org/10.1038/s42255-020-00280-9."
+    "section": "2.10 参考文献",
+    "text": "2.10 参考文献\n\n\n\n\nAlfei, Francesca, 和 Dietmar Zehn. 2017. 《T Cell Exhaustion: An Epigenetically Imprinted Phenotypic and Functional Makeover》. Trends in Molecular Medicine 23 (9): 769–71. https://doi.org/10.1016/j.molmed.2017.07.006.\n\n\nChang, Chih-Hao, Jonathan D. Curtis, Leonard B. Maggi, Brandon Faubert, Alejandro V. Villarino, David O’Sullivan, Stanley Ching-Cheng Huang, 等. 2013. 《Posttranscriptional Control of T Cell Effector Function by Aerobic Glycolysis》. Cell 153 (6): 1239–51. https://doi.org/10.1016/j.cell.2013.05.016.\n\n\nFranco, Fabien, Alison Jaccard, Pedro Romero, Yi-Ru Yu, 和 Ping-Chih Ho. 2020. 《Metabolic and Epigenetic Regulation of T-Cell Exhaustion》. Nature Metabolism 2 (10): 1001–12. https://doi.org/10.1038/s42255-020-00280-9.\n\n\nGhoneim, Hazem E., Yiping Fan, Ardiana Moustaki, Hossam A. Abdelsamed, Pradyot Dash, Pranay Dogra, Robert Carter, 等. 2017. 《De Novo Epigenetic Programs Inhibit PD-1 Blockade-Mediated T Cell Rejuvenation》. Cell 170 (1): 142–157.e19. https://doi.org/10.1016/j.cell.2017.06.007.\n\n\nHo, Ping-Chih, Jessica Dauz Bihuniak, Andrew N. Macintyre, Matthew Staron, Xiaojing Liu, Robert Amezquita, Yao-Chen Tsui, 等. 2015. 《Phosphoenolpyruvate Is a Metabolic Checkpoint of Anti-Tumor T Cell Responses》. Cell 162 (6): 1217–28. https://doi.org/10.1016/j.cell.2015.08.012.\n\n\nMa, Xingzhe, Enguang Bi, Yong Lu, Pan Su, Chunjian Huang, Lintao Liu, Qiang Wang, 等. 2019. 《Cholesterol Induces CD8+ T Cell Exhaustion in the Tumor Microenvironment》. Cell Metabolism 30 (1): 143–156.e5. https://doi.org/10.1016/j.cmet.2019.04.002.\n\n\nScharping, Nicole E., Ashley V. Menk, Rebecca S. Moreci, Ryan D. Whetstone, Rebekah E. Dadey, Simon C. Watkins, Robert L. Ferris, 和 Greg M. Delgoffe. 2016. 《The Tumor Microenvironment Represses T Cell Mitochondrial Biogenesis to Drive Intratumoral T Cell Metabolic Insufficiency and Dysfunction》. Immunity 45 (2): 374–88. https://doi.org/10.1016/j.immuni.2016.07.009."
+  },
+  {
+    "objectID": "videos.html#利用免疫系统对抗癌症",
+    "href": "videos.html#利用免疫系统对抗癌症",
+    "title": "Appendix A — 视频资源",
+    "section": "A.1 利用免疫系统对抗癌症",
+    "text": "A.1 利用免疫系统对抗癌症\n肿瘤学家正在转向一种新型的疗法来对抗癌症：重新训练或重新设计免疫系统以抑制肿瘤生长。在本次研讨会中，哈佛医学院的科学家和临床医生讲述了关于使用人体自身防御来对抗癌症的最新方法。"
   }
 ]
