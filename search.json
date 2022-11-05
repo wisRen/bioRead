@@ -77,10 +77,31 @@
     "text": "2.10 参考文献\n\n\n\n\nAlfei, Francesca, 和 Dietmar Zehn. 2017. 《T Cell Exhaustion: An Epigenetically Imprinted Phenotypic and Functional Makeover》. Trends in Molecular Medicine 23 (9): 769–71. https://doi.org/10.1016/j.molmed.2017.07.006.\n\n\nBantug, Glenn R., Marco Fischer, Jasmin Grählert, Maria L. Balmer, Gunhild Unterstab, Leyla Develioglu, Rebekah Steiner, 等. 2018. 《Mitochondria-Endoplasmic Reticulum Contact Sites Function as Immunometabolic Hubs that Orchestrate the Rapid Recall Response of Memory CD8+ T Cells》. Immunity 48 (3): 542–555.e6. https://doi.org/10.1016/j.immuni.2018.02.012.\n\n\nChang, Chih-Hao, Jonathan D. Curtis, Leonard B. Maggi, Brandon Faubert, Alejandro V. Villarino, David O’Sullivan, Stanley Ching-Cheng Huang, 等. 2013. 《Posttranscriptional Control of T Cell Effector Function by Aerobic Glycolysis》. Cell 153 (6): 1239–51. https://doi.org/10.1016/j.cell.2013.05.016.\n\n\nFranco, Fabien, Alison Jaccard, Pedro Romero, Yi-Ru Yu, 和 Ping-Chih Ho. 2020. 《Metabolic and Epigenetic Regulation of T-Cell Exhaustion》. Nature Metabolism 2 (10): 1001–12. https://doi.org/10.1038/s42255-020-00280-9.\n\n\nGhoneim, Hazem E., Yiping Fan, Ardiana Moustaki, Hossam A. Abdelsamed, Pradyot Dash, Pranay Dogra, Robert Carter, 等. 2017. 《De Novo Epigenetic Programs Inhibit PD-1 Blockade-Mediated T Cell Rejuvenation》. Cell 170 (1): 142–157.e19. https://doi.org/10.1016/j.cell.2017.06.007.\n\n\nHo, Ping-Chih, Jessica Dauz Bihuniak, Andrew N. Macintyre, Matthew Staron, Xiaojing Liu, Robert Amezquita, Yao-Chen Tsui, 等. 2015. 《Phosphoenolpyruvate Is a Metabolic Checkpoint of Anti-Tumor T Cell Responses》. Cell 162 (6): 1217–28. https://doi.org/10.1016/j.cell.2015.08.012.\n\n\nMa, Xingzhe, Enguang Bi, Yong Lu, Pan Su, Chunjian Huang, Lintao Liu, Qiang Wang, 等. 2019. 《Cholesterol Induces CD8+ T Cell Exhaustion in the Tumor Microenvironment》. Cell Metabolism 30 (1): 143–156.e5. https://doi.org/10.1016/j.cmet.2019.04.002.\n\n\nMiller, Brian C., Debattama R. Sen, Rose Al Abosy, Kevin Bi, Yamini V. Virkud, Martin W. LaFleur, Kathleen B. Yates, 等. 2019. 《Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade》. Nature Immunology 20 (3): 326–36. https://doi.org/10.1038/s41590-019-0312-6.\n\n\nScharping, Nicole E., Ashley V. Menk, Rebecca S. Moreci, Ryan D. Whetstone, Rebekah E. Dadey, Simon C. Watkins, Robert L. Ferris, 和 Greg M. Delgoffe. 2016. 《The Tumor Microenvironment Represses T Cell Mitochondrial Biogenesis to Drive Intratumoral T Cell Metabolic Insufficiency and Dysfunction》. Immunity 45 (2): 374–88. https://doi.org/10.1016/j.immuni.2016.07.009."
   },
   {
-    "objectID": "videos.html#利用免疫系统对抗癌症",
-    "href": "videos.html#利用免疫系统对抗癌症",
-    "title": "Appendix A — 视频资源",
-    "section": "A.1 利用免疫系统对抗癌症",
-    "text": "A.1 利用免疫系统对抗癌症\n肿瘤学家正在转向一种新型的疗法来对抗癌症：重新训练或重新设计免疫系统以抑制肿瘤生长。在本次研讨会中，哈佛医学院的科学家和临床医生讲述了关于使用人体自身防御来对抗癌症的最新方法。"
+    "objectID": "online_resources.html#sashimi.py",
+    "href": "online_resources.html#sashimi.py",
+    "title": "Appendix A — 在线资源",
+    "section": "A.1 Sashimi.py",
+    "text": "A.1 Sashimi.py\n用于基因组数据组合分析的灵活工具包。可以在 Bioconda ( https://anaconda.org/Bioconda/sashimi py)、 Docker、 PyPI ( https://PyPI.org/project/Sashimi.py/)和 GitHub ( https://GitHub.com/ygidtu/Sashimi.py )上获得。"
+  },
+  {
+    "objectID": "online_resources.html#医学免疫学基础",
+    "href": "online_resources.html#医学免疫学基础",
+    "title": "Appendix A — 在线资源",
+    "section": "A.2 医学免疫学基础",
+    "text": "A.2 医学免疫学基础\n在线网址：视频教学"
+  },
+  {
+    "objectID": "online_resources.html#利用免疫系统对抗癌症",
+    "href": "online_resources.html#利用免疫系统对抗癌症",
+    "title": "Appendix A — 在线资源",
+    "section": "A.3 利用免疫系统对抗癌症",
+    "text": "A.3 利用免疫系统对抗癌症\n肿瘤学家正在转向一种新型的疗法来对抗癌症：重新训练或重新设计免疫系统以抑制肿瘤生长。在本次研讨会中，哈佛医学院的科学家和临床医生讲述了关于使用人体自身防御来对抗癌症的最新方法。"
+  },
+  {
+    "objectID": "life_notes.html#section",
+    "href": "life_notes.html#section",
+    "title": "Appendix B — 生活记录",
+    "section": "B.1 2022-11-05",
+    "text": "B.1 2022-11-05\n\n最近看了一些有趣的旅行纪录片\n\nB站：巡游轨迹；\nB站：纪录片我去看世界，其中印象比较深的是：风来尼泊尔，巴尔干半岛；\n\n观看\"燕京读书会\"，理解了什么是致良知，通俗地讲，一辈子都在追求一件事情，这件事情是你最迫切想要做的，是你内心和行为上一致想做的而且正在践行，就是在致良知。 君子素其位而行，思不出其位，当行则行，当止则止，能致良知则心得其宜矣。"
   }
 ]
