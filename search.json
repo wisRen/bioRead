@@ -77,11 +77,11 @@
     "text": "2.10 未来展望和目前未解决的问题\n\n在协调T细胞分化程序时，线粒体如何与ER和细胞核进行信号交流？\n线粒体活性和ER应激反应是否会影响表观基因组，从而加强T细胞耗竭？\n我们能否通过代谢干预重编程T细胞耗竭中的表观基因组？\n转录因子是否可以控制祖细胞耗竭和终末耗竭状态，从而用于干预T细胞代谢程序？"
   },
   {
-    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献标注",
-    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献标注",
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献注解",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html#文献注解",
     "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
-    "section": "2.11 文献标注",
-    "text": "2.11 文献标注\n\nChang, C. H.(Chang 等 2013)和Ho, P. C.(Ho 等 2015)表明葡萄糖剥夺抑制T细胞抗肿瘤免疫，可以通过代谢重编程增强。\nAlfei, F.(Alfei 和 Zehn 2017)表明 TOX 是慢性病毒感染期间维持T细胞耗竭的关键转录因子。\nGhoneim, H. E.(Ghoneim 等 2017)揭示了终末耗竭的T细胞显示出独特的表观遗传特征，这抑制了T细胞效应功能和PD-1阻断治疗的有效性。\nScharping, N. E.(Scharping 等 2016)提供了功能失调的线粒体与抗肿瘤免疫力下降之间联系的证据。\nMa, X.(Ma 等 2019)表明肿瘤微环境中的胆固醇通过内质网应激的XBP1通路驱动T细胞耗竭。\nMiller, B. C.(Miller 等 2019)发现耗竭的CD8+ TIL的TCF1+亚群，并在抗PD-1治疗中有重要作用。\nBantug, G. R.(Bantug 等 2018)强调了线粒体-内质网相互作用在记忆CD8+ T细胞免疫代谢调节中的重要性。"
+    "section": "2.11 文献注解",
+    "text": "2.11 文献注解\n\nChang, C. H.(Chang 等 2013)和Ho, P. C.(Ho 等 2015)表明葡萄糖剥夺抑制T细胞抗肿瘤免疫，可以通过代谢重编程增强。\nAlfei, F.(Alfei 和 Zehn 2017)表明 TOX 是慢性病毒感染期间维持T细胞耗竭的关键转录因子。\nGhoneim, H. E.(Ghoneim 等 2017)揭示了终末耗竭的T细胞显示出独特的表观遗传特征，这抑制了T细胞效应功能和PD-1阻断治疗的有效性。\nScharping, N. E.(Scharping 等 2016)提供了功能失调的线粒体与抗肿瘤免疫力下降之间联系的证据。\nMa, X.(Ma 等 2019)表明肿瘤微环境中的胆固醇通过内质网应激的XBP1通路驱动T细胞耗竭。\nMiller, B. C.(Miller 等 2019)发现耗竭的CD8+ TIL的TCF1+亚群，并在抗PD-1治疗中有重要作用。\nBantug, G. R.(Bantug 等 2018)强调了线粒体-内质网相互作用在记忆CD8+ T细胞免疫代谢调节中的重要性。"
   },
   {
     "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html#参考文献",
@@ -144,7 +144,7 @@
     "href": "Nuclear metabolism and the regulation of the epigenome.html#文献注解",
     "title": "4  细胞核代谢和表观基因组的调节",
     "section": "4.7 文献注解",
-    "text": "4.7 文献注解\n\n(Ryu 等 2018)研究表明，NAD+从核内到细胞质生成的转换，通过C / EBPβ的PARP依赖性调节维持脂肪分化。\n(Carey 等 2015)研究表明，高αKG/琥珀酸比值通过维持表观遗传低甲基化来维持多能干细胞的幼稚表型，此外还显示了αKG和琥珀酸补充剂分别在促进多能性和分化方面的效用。\n(Mentch 等 2015)研究将饮食、蛋氨酸代谢、SAMe 水平和组蛋白甲基化与最终的癌症表型联系起来。\n(Haws 等 2020)研究将H3K9me3和H3K9me2确定为代谢缓冲标记，可以被哺乳动物细胞动员以补充SAMe的细胞水平，同时维持H3K9me1以维持表观遗传稳定性。\n(Wellen 等 2009)研究确定 ACLY 在核内从柠檬酸盐生成乙酰辅酶 A 来调节组蛋白乙酰化。\n(Zhong 等 2010)研究首次证明了染色质因子SIRT6在表观遗传水平上调节的代谢适应。\n(Li 等 2015)研究鉴定了一种核多酶复合物，该复合物由亚组分组成，用于在组蛋白激酶、甲基转移酶和乙酰转移酶附近同时生成 ATP、SAMe 和乙酰辅酶 A，从而为染色质修饰剂提供局部底物。\n(Hämäläinen 等 2019)研究表明，线粒体核苷酸池中的缺陷后信号传导至核区室，从而导致基因组不稳定。\n(Ye 等 2019)研究确定PP2A是一种SAMe传感器，能够在SAMe饥饿后刺激组蛋白去甲基化。"
+    "text": "4.7 文献注解\n\nRyu, Keun Woo(Ryu 等 2018)研究表明，NAD+从核内到细胞质生成的转换，通过C / EBPβ的PARP依赖性调节维持脂肪分化。\nCarey, Bryce W.(Carey 等 2015)研究表明，高αKG/琥珀酸比值通过维持表观遗传低甲基化来维持多能干细胞的幼稚表型，此外还显示了αKG和琥珀酸补充剂分别在促进多能性和分化方面的效用。\nMentch, Samantha J.(Mentch 等 2015)研究将饮食、蛋氨酸代谢、SAMe 水平和组蛋白甲基化与最终的癌症表型联系起来。\nHaws, Spencer A.(Haws 等 2020)研究将H3K9me3和H3K9me2确定为代谢缓冲标记，可以被哺乳动物细胞动员以补充SAMe的细胞水平，同时维持H3K9me1以维持表观遗传稳定性。\nWellen, Kathryn E.(Wellen 等 2009)研究确定 ACLY 在核内从柠檬酸盐生成乙酰辅酶 A 来调节组蛋白乙酰化。\nZhong, Lei(Zhong 等 2010)研究首次证明了染色质因子SIRT6在表观遗传水平上调节的代谢适应。\nLi, Shanshan(Li 等 2015)研究鉴定了一种核多酶复合物，该复合物由亚组分组成，用于在组蛋白激酶、甲基转移酶和乙酰转移酶附近同时生成 ATP、SAMe 和乙酰辅酶 A，从而为染色质修饰剂提供局部底物。\nHämäläinen, Riikka H.(Hämäläinen 等 2019)研究表明，线粒体核苷酸池中的缺陷后信号传导至核区室，从而导致基因组不稳定。\nYe, Cunqi(Ye 等 2019)研究确定PP2A是一种SAMe传感器，能够在SAMe饥饿后刺激组蛋白去甲基化。"
   },
   {
     "objectID": "Nuclear metabolism and the regulation of the epigenome.html#参考文献",
