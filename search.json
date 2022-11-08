@@ -140,11 +140,18 @@
     "text": "4.6 总结与未来展望\n代谢和表观遗传学这两个新兴研究领域的联系，为细胞身份、代谢和基因功能如何被调节提供了基本的见解。将这项研究扩展到细胞核，特别是绘制核代谢物，肯定会提供理解细胞命运和潜在治疗疾病的工具见解和新方法。"
   },
   {
+    "objectID": "Nuclear metabolism and the regulation of the epigenome.html#文献注解",
+    "href": "Nuclear metabolism and the regulation of the epigenome.html#文献注解",
+    "title": "4  细胞核代谢和表观基因组的调节",
+    "section": "4.7 文献注解",
+    "text": "4.7 文献注解\n\n(Ryu 等 2018)研究表明，NAD+从核内到细胞质生成的转换，通过C / EBPβ的PARP依赖性调节维持脂肪分化。\n(Carey 等 2015)研究表明，高αKG/琥珀酸比值通过维持表观遗传低甲基化来维持多能干细胞的幼稚表型，此外还显示了αKG和琥珀酸补充剂分别在促进多能性和分化方面的效用。\n(Mentch 等 2015)研究将饮食、蛋氨酸代谢、SAMe 水平和组蛋白甲基化与最终的癌症表型联系起来。\n(Haws 等 2020)研究将H3K9me3和H3K9me2确定为代谢缓冲标记，可以被哺乳动物细胞动员以补充SAMe的细胞水平，同时维持H3K9me1以维持表观遗传稳定性。\n(Wellen 等 2009)研究确定 ACLY 在核内从柠檬酸盐生成乙酰辅酶 A 来调节组蛋白乙酰化。\n(Zhong 等 2010)研究首次证明了染色质因子SIRT6在表观遗传水平上调节的代谢适应。\n(Li 等 2015)研究鉴定了一种核多酶复合物，该复合物由亚组分组成，用于在组蛋白激酶、甲基转移酶和乙酰转移酶附近同时生成 ATP、SAMe 和乙酰辅酶 A，从而为染色质修饰剂提供局部底物。\n(Hämäläinen 等 2019)研究表明，线粒体核苷酸池中的缺陷后信号传导至核区室，从而导致基因组不稳定。\n(Ye 等 2019)研究确定PP2A是一种SAMe传感器，能够在SAMe饥饿后刺激组蛋白去甲基化。"
+  },
+  {
     "objectID": "Nuclear metabolism and the regulation of the epigenome.html#参考文献",
     "href": "Nuclear metabolism and the regulation of the epigenome.html#参考文献",
     "title": "4  细胞核代谢和表观基因组的调节",
-    "section": "4.7 参考文献",
-    "text": "4.7 参考文献"
+    "section": "4.8 参考文献",
+    "text": "4.8 参考文献\n\n\n\n\nCarey, Bryce W., Lydia W. S. Finley, Justin R. Cross, C. David Allis, 和 Craig B. Thompson. 2015. 《Intracellular α-ketoglutarate maintains the pluripotency of embryonic stem cells》. Nature 518 (7539): 413–16. https://doi.org/10.1038/nature13981.\n\n\nHämäläinen, Riikka H., Juan C. Landoni, Kati J. Ahlqvist, Steffi Goffart, Sanna Ryytty, M. Obaidur Rahman, Virginia Brilhante, 等. 2019. 《Defects in mtDNA replication challenge nuclear genome stability through nucleotide depletion and provide a unifying mechanism for mouse progerias》. Nature Metabolism 1 (10): 958–65. https://doi.org/10.1038/s42255-019-0120-1.\n\n\nHaws, Spencer A., Deyang Yu, Cunqi Ye, Coral K. Wille, Long C. Nguyen, Kimberly A. Krautkramer, Jay L. Tomasiewicz, 等. 2020. 《Methyl-Metabolite Depletion Elicits Adaptive Responses to Support Heterochromatin Stability and Epigenetic Persistence》. Molecular Cell 78 (2): 210–223.e8. https://doi.org/10.1016/j.molcel.2020.03.004.\n\n\nLi, Shanshan, Selene K. Swanson, Madelaine Gogol, Laurence Florens, Michael P. Washburn, Jerry L. Workman, 和 Tamaki Suganuma. 2015. 《Serine and SAM Responsive Complex SESAME Regulates Histone Modification Crosstalk by Sensing Cellular Metabolism》. Molecular Cell 60 (3): 408–21. https://doi.org/10.1016/j.molcel.2015.09.024.\n\n\nMentch, Samantha J., Mahya Mehrmohamadi, Lei Huang, Xiaojing Liu, Diwakar Gupta, Dwight Mattocks, Paola Gómez Padilla, 等. 2015. 《Histone Methylation Dynamics and Gene Regulation Occur through the Sensing of One-Carbon Metabolism》. Cell Metabolism 22 (5): 861–73. https://doi.org/10.1016/j.cmet.2015.08.024.\n\n\nRyu, Keun Woo, Tulip Nandu, Jiyeon Kim, Sridevi Challa, Ralph J. DeBerardinis, 和 W. Lee Kraus. 2018. 《Metabolic regulation of transcription through compartmentalized NAD+ biosynthesis》. Science (New York, N.Y.) 360 (6389): eaan5780. https://doi.org/10.1126/science.aan5780.\n\n\nWellen, Kathryn E., Georgia Hatzivassiliou, Uma M. Sachdeva, Thi V. Bui, Justin R. Cross, 和 Craig B. Thompson. 2009. 《ATP-citrate lyase links cellular metabolism to histone acetylation》. Science (New York, N.Y.) 324 (5930): 1076–80. https://doi.org/10.1126/science.1164097.\n\n\nYe, Cunqi, Benjamin M. Sutter, Yun Wang, Zheng Kuang, Xiaozheng Zhao, Yonghao Yu, 和 Benjamin P. Tu. 2019. 《Demethylation of the Protein Phosphatase PP2A Promotes Demethylation of Histones to Enable Their Function as a Methyl Group Sink》. Molecular Cell 73 (6): 1115–1126.e6. https://doi.org/10.1016/j.molcel.2019.01.012.\n\n\nZhong, Lei, Agustina D’Urso, Debra Toiber, Carlos Sebastian, Ryan E. Henry, Douangsone D. Vadysirisack, Alexander Guimaraes, 等. 2010. 《The histone deacetylase Sirt6 regulates glucose homeostasis via Hif1alpha》. Cell 140 (2): 280–93. https://doi.org/10.1016/j.cell.2009.12.041."
   },
   {
     "objectID": "summary.html",
